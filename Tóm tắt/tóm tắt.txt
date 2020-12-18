@@ -1,0 +1,10 @@
+Sample of teacher:
+- Đầu tiên lập kế hoạch nội dung và tạo ra tài liệu nhiều câu.
+- Mô hình mạng nơ-ron.
+- Dựa vào tài liệu của Mei và Wiseman: sử dụng mô hình bộ mã hóa-giải mã thần kinh để tạo dự báo thời tiết
+và bình luận bóng đá tập dữ liệu mới để tạo dữ liệu thành tài liệu đủ lớn để đào tạo mạng nơ-ron và đầy đủ
+thách thức để kiểm tra khả năng của quy mô tài liệu
+tạo văn bản (độ dài tóm tắt trung bình là 330
+từ và số bản ghi đầu vào trung bình là 628).
+- Mô hình dựa vào Wiseman et al (2017) giải quyết những thách thức đối với việc tạo dữ liệu thành văn bản được xác định trong công việc của họ.
+- 
